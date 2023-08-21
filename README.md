@@ -1,4 +1,4 @@
-# Moving Mouse by Tracking Hand
+# Moving Mouse using computer vision and tracking hand
 
 This program uses computer vision and hand tracking to control the mouse cursor's movement based on hand gestures.
 
