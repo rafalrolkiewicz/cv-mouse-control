@@ -14,6 +14,8 @@ This program uses computer vision and hand tracking to control the mouse cursor'
 4. Close fist to use left mouse button.
 5. Press 'q' on the camera feed window to stop the program.
 
+![Mouse control via computer vision](cv_mouse.gif)
+
 ## Webcam setup
 - The program uses the OpenCV library to capture video from the webcam.
 - The resolution of the webcam is automatically detected and set as the resolution for the program.
